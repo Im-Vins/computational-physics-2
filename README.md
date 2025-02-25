@@ -67,8 +67,7 @@ This is an advanced course on object-oriented programming for physics. It is the
 
 The full course syllabus and programme can be found here:
 
-TBA
-TBA
+https://github.com/wbandabarragan/computational-physics-2/blob/main/CP2_Syllabus_Ing_ISEM2025_fisica.pdf
 
 
 ### Prerequisites:
@@ -81,7 +80,7 @@ Evaluation has 4 components, with weights distributed as follows:
 
 **1. Formative Evaluation (2 Homework):** 20%
 
-**2. Laboratory (4 Quizzes):** 20%
+**2. Laboratory (at least 4 Quizzes):** 20%
 
 **3. 1 Midterm Exam:** 30%
 
@@ -105,9 +104,9 @@ The assignment deadlines and exam dates will be discussed and agreed upon in cla
 
 If you have questions on the material, you can find me in the office:
 
-- On Tuesdays: TBD
+- On Mondays: 11:00 - 12:00
 
-- On Wednesdays: TBD
+- On Thursdays: 16:00 - 17:00
 
 
 ## On academic integrity:
