@@ -121,3 +121,9 @@ If you have questions on the material, you can find me in the office:
 
 ## Late assignment policy:
 Late assignments accompanied by appropriate justification (e.g. a medical certificate, etc.) will receive no penalisation. Late assignments without appropriate justification will receive a penalisation of -1% per late hour.
+
+## Useful repositories: 
+
+- Data repository: https://github.com/wbandabarragan/physics-teaching-data
+
+- Archived versions of the CP2 course taught in previous semesters: https://github.com/wbandabarragan/computational-physics-2-arxiv
